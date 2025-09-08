@@ -25,16 +25,16 @@ M.default = {
   bg_alt = "#d4c7db",       -- Slightly darker variant of background
   bg_highlight = "#c5b4cf", -- Even darker for highlights
   fg = "#060606",           -- Dark foreground for readability (matches kitty)
-  grey = "#A696C8",         -- Dusty lilac-grey
-  blue = "#7C9DF5",         -- Lavender blue
-  green = "#6EC6B5",        -- Mint-teal green (soft, not clashing)
-  cyan = "#8FD5E9",         -- Pastel sky-cyan with lavender undertone
-  red = "#F28B82",          -- Coral-pink red (warmer, not harsh)
-  yellow = "#E9C46A",       -- Muted pastel gold
-  magenta = "#D95EB5",      -- Deep rose-magenta
-  pink = "#E39AC9",         -- Orchid pink
-  orange = "#F4A261",       -- Soft apricot orange
-  purple = "#B184F0",       -- Soft lilac purple
+  grey = "#8B7BA3",         -- Darker dusty lilac-grey for better contrast
+  blue = "#5B7AD9",         -- Darker lavender blue for readability
+  green = "#4AA396",        -- Darker mint-teal for better visibility
+  cyan = "#6BB8CC",         -- Darker cyan with better contrast
+  red = "#E0654F",          -- Darker coral-red for better readability
+  yellow = "#D4A843",       -- Darker muted gold for contrast
+  magenta = "#C0408F",      -- Darker rose-magenta for visibility
+  pink = "#D278B0",         -- Darker orchid pink
+  orange = "#E6864A",       -- Darker apricot orange
+  purple = "#9B66D6",       -- Darker lilac purple for contrast against background
 }
 
 M.light = {
