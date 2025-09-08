@@ -21,20 +21,20 @@
 local M = {}
 
 M.default = {
-  bg = "#E2D5F0",           -- Light lavender background (matches kitty theme)
-  bg_alt = "#D9CCE3",       -- Slightly darker lavender for alternates
-  bg_highlight = "#D0C0D9", -- Even darker for highlights and selections
-  fg = "#060606",           -- Very dark foreground (matches kitty theme)
-  grey = "#9A8CA5",         -- Smoky lavender-grey
-  blue = "#8CA6E6",         -- Periwinkle blue
-  green = "#7EBFA1",        -- Sage-mint green
-  cyan = "#93D3D9",         -- Aqua mist cyan
-  red = "#E38CA1",          -- Rose-red
-  yellow = "#E6D27F",       -- Buttercream yellow
-  magenta = "#C678DD",      -- Bright lilac-magenta
-  pink = "#F2A7CF",         -- Candy-floss pink
-  orange = "#E6A178",       -- Peach-orange
-  purple = "#B6A1E1",       -- Lavender purple
+  bg = "#E2D5F0",           -- Light purple background (matches kitty theme)
+  bg_alt = "#d4c7db",       -- Slightly darker variant of background
+  bg_highlight = "#c5b4cf", -- Even darker for highlights
+  fg = "#060606",           -- Dark foreground for readability (matches kitty)
+  grey = "#A696C8",         -- Dusty lilac-grey
+  blue = "#7C9DF5",         -- Lavender blue
+  green = "#6EC6B5",        -- Mint-teal green (soft, not clashing)
+  cyan = "#8FD5E9",         -- Pastel sky-cyan with lavender undertone
+  red = "#F28B82",          -- Coral-pink red (warmer, not harsh)
+  yellow = "#E9C46A",       -- Muted pastel gold
+  magenta = "#D95EB5",      -- Deep rose-magenta
+  pink = "#E39AC9",         -- Orchid pink
+  orange = "#F4A261",       -- Soft apricot orange
+  purple = "#B184F0",       -- Soft lilac purple
 }
 
 M.light = {
