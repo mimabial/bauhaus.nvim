@@ -21,20 +21,20 @@
 local M = {}
 
 M.default = {
-  bg = "#1a1626",             -- Deep purple-gray base
-  bg_alt = "#221e2e",         -- Slightly lighter purple-gray
-  bg_highlight = "#2d2842",   -- Muted purple highlight
-  fg = "#e8e3f0",             -- Soft light purple-gray foreground
-  grey = "#8b7ca3",           -- Purple-tinted gray
-  blue = "#7c66d9",           -- Deep violet-blue
-  green = "#66d9a3",          -- Mint green (complementary to purple)
-  cyan = "#5ee8d1",           -- Soft teal (harmonious)
-  red = "#d96685",            -- Muted pink-red
-  yellow = "#d4b566",         -- Warm gold instead of harsh yellow
-  magenta = "#c766d9",        -- Rich magenta
-  pink = "#d983b3",           -- Soft dusty pink
-  orange = "#d19a66",         -- Muted gold-orange
-  purple = "#9d66d9",         -- Medium purple (harmonious with theme)
+  bg = "#E2D5F0",             -- Light purple background
+  bg_alt = "#d9ccdd",         -- Darker variant of background
+  bg_highlight = "#c9b8d6",   -- Even darker for highlights
+  fg = "#060606",             -- Dark foreground for readability (matches kitty)
+  grey = "#5a4d6b",           -- Dark purple-gray
+  blue = "#4b1fa8",           -- Deep purple-blue
+  green = "#1a7a4d",          -- Dark forest green (complement to purple)
+  cyan = "#2d6b5c",           -- Dark teal
+  red = "#8b1a3d",            -- Dark crimson
+  yellow = "#8b6b1a",         -- Dark golden brown
+  magenta = "#7a1a8b",        -- Deep magenta
+  pink = "#a8307a",           -- Dark rose
+  orange = "#a85c1a",         -- Dark orange-brown
+  purple = "#6b1fa8",         -- Deep purple (matches kitty cursor area)
 }
 
 M.light = {
