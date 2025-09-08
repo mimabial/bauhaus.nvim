@@ -21,20 +21,20 @@
 local M = {}
 
 M.default = {
-  bg = "#E2D5F0",           -- Light lavender background (matches kitty)
-  bg_alt = "#D9D0E3",       -- Selection foreground from kitty
-  bg_highlight = "#C066FF", -- Cursor color from kitty (magenta)
-  fg = "#060606",           -- Dark foreground (matches kitty)
-  grey = "#8A7CA8",         -- Silver-lavender mix
-  blue = "#4F7CAC",         -- Sky blue tone
-  green = "#5D9C9C",        -- Teal/aquamarine
-  cyan = "#00CED1",         -- Turquoise
-  red = "#8B3A5C",          -- Burgundy-plum mix
-  yellow = "#B19CD9",       -- Lilac for less harsh contrast
-  magenta = "#C066FF",      -- Fuchsia/magenta (matches kitty cursor)
-  pink = "#DA70D6",         -- Orchid
-  orange = "#9370DB",       -- Plum
-  purple = "#4B0082",       -- Indigo
+  bg = "#E2D5F0",           -- Light lavender background (matches kitty theme)
+  bg_alt = "#D9CCE3",       -- Slightly darker lavender for alternates
+  bg_highlight = "#D0C0D9", -- Even darker for highlights and selections
+  fg = "#060606",           -- Very dark foreground (matches kitty theme)
+  grey = "#9A8CA5",         -- Smoky lavender-grey
+  blue = "#8CA6E6",         -- Periwinkle blue
+  green = "#7EBFA1",        -- Sage-mint green
+  cyan = "#93D3D9",         -- Aqua mist cyan
+  red = "#E38CA1",          -- Rose-red
+  yellow = "#E6D27F",       -- Buttercream yellow
+  magenta = "#C678DD",      -- Bright lilac-magenta
+  pink = "#F2A7CF",         -- Candy-floss pink
+  orange = "#E6A178",       -- Peach-orange
+  purple = "#B6A1E1",       -- Lavender purple
 }
 
 M.light = {
