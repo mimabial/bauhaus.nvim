@@ -26,16 +26,16 @@ M.default = {
   bg_alt = "#d4c7db",       -- Slightly darker variant of background
   bg_highlight = "#c5b4cf", -- Even darker for highlights
   fg = "#060606",           -- Dark foreground for readability (matches kitty)
-  grey = "#6B5991",         -- Lavender-tinted grey
-  blue = "#5866FF",         -- Lavender-blue
-  green = "#4FA085",        -- Mint with lavender undertone
-  cyan = "#5BB5D8",         -- Cyan with lavender tint
-  red = "#E64976",          -- Red with purple undertone
-  yellow = "#E6B755",       -- Gold with lavender hint
-  magenta = "#B73E9E",      -- Purple-magenta
-  pink = "#E366A3",         -- Lavender-pink
-  orange = "#E6715B",       -- Orange with lavender undertone
-  purple = "#8666ED",       -- Pure lavender purple
+  grey = "#6B5A7D",         -- Muted purple-grey for subtle text
+  blue = "#4A5BC7",         -- Deep lavender-blue
+  green = "#2D7A52",        -- Forest green (complementary to lavender)
+  cyan = "#2E7A7A",         -- Teal (neutral, good contrast)
+  red = "#B8314A",          -- Deep burgundy-red
+  yellow = "#B8852E",       -- Warm amber (complementary)
+  magenta = "#8B4A9C",      -- True purple-magenta
+  pink = "#A64D7A",         -- Muted rose
+  orange = "#B8663D",       -- Warm brown-orange
+  purple = "#6B4A9C",       -- Deep lavender
 }
 
 
