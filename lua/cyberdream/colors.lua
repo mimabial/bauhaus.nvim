@@ -21,20 +21,20 @@
 local M = {}
 
 M.default = {
-  bg = "#E2D5F0",             -- Light purple background
-  bg_alt = "#d9ccdd",         -- Darker variant of background
-  bg_highlight = "#c9b8d6",   -- Even darker for highlights
-  fg = "#060606",             -- Dark foreground for readability (matches kitty)
-  grey = "#5a4d6b",           -- Dark purple-gray
-  blue = "#4b1fa8",           -- Deep purple-blue
-  green = "#1a7a4d",          -- Dark forest green (complement to purple)
-  cyan = "#2d6b5c",           -- Dark teal
-  red = "#8b1a3d",            -- Dark crimson
-  yellow = "#8b6b1a",         -- Dark golden brown
-  magenta = "#7a1a8b",        -- Deep magenta
-  pink = "#a8307a",           -- Dark rose
-  orange = "#a85c1a",         -- Dark orange-brown
-  purple = "#6b1fa8",         -- Deep purple (matches kitty cursor area)
+  bg = "#E2D5F0",           -- Light lavender background (matches kitty)
+  bg_alt = "#D9D0E3",       -- Selection foreground from kitty
+  bg_highlight = "#C066FF", -- Cursor color from kitty (magenta)
+  fg = "#060606",           -- Dark foreground (matches kitty)
+  grey = "#8A7CA8",         -- Silver-lavender mix
+  blue = "#4F7CAC",         -- Sky blue tone
+  green = "#5D9C9C",        -- Teal/aquamarine
+  cyan = "#00CED1",         -- Turquoise
+  red = "#8B3A5C",          -- Burgundy-plum mix
+  yellow = "#B19CD9",       -- Lilac for less harsh contrast
+  magenta = "#C066FF",      -- Fuchsia/magenta (matches kitty cursor)
+  pink = "#DA70D6",         -- Orchid
+  orange = "#9370DB",       -- Plum
+  purple = "#4B0082",       -- Indigo
 }
 
 M.light = {
