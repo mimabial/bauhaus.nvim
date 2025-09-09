@@ -22,20 +22,20 @@ local M = {}
 
 
 M.default = {
-  bg = "#F7F7F7",           -- Retro white background
-  bg_alt = "#EEEEEE",       -- Slightly darker variant
-  bg_highlight = "#E5E5E5", -- Even darker for highlights
-  fg = "#000000",           -- Pure black foreground
-  grey = "#666666",         -- Classic Mac grey
-  blue = "#0066CC",         -- Classic Mac blue
-  green = "#00AA00",        -- Classic Mac green
-  cyan = "#00AAAA",         -- Classic Mac cyan
-  red = "#DD0000",          -- Classic Mac red
-  yellow = "#DDDD00",       -- Classic Mac yellow
-  magenta = "#CC00CC",      -- Classic Mac magenta
-  pink = "#FF6699",         -- Pink variant
-  orange = "#FF6600",       -- Classic Mac orange
-  purple = "#6600CC",       -- Classic Mac purple
+  bg = "#FAF0E6",           -- Linen background
+  bg_alt = "#F0E6DD",       -- Slightly darker variant
+  bg_highlight = "#E6DCD4", -- Even darker for highlights
+  fg = "#000000",           -- Pure black (Bauhaus)
+  grey = "#4A4A4A",         -- Dark grey
+  blue = "#003DA5",         -- Bold Bauhaus blue
+  green = "#228B22",        -- Simple green
+  cyan = "#0066AA",         -- Blue-cyan
+  red = "#CC0000",          -- Bold Bauhaus red
+  yellow = "#FFD700",       -- Bold Bauhaus yellow
+  magenta = "#AA0066",      -- Red-magenta
+  pink = "#FF3366",         -- Bright pink
+  orange = "#FF6600",       -- Bold orange
+  purple = "#6600AA",       -- Simple purple
 }
 
 
