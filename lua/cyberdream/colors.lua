@@ -28,13 +28,13 @@ M.default = {
   fg = "#060606",           -- Dark foreground for readability (matches kitty)
   grey = "#5A4566",         -- Darker, more punchy purple-grey
   blue = "#3D4AFF",         -- Bright electric blue
-  green = "#8A2BE2",        -- Vibrant violet (replacing green)
-  cyan = "#00A6A6",         -- Bright teal
+  green = "#8A4FFF",        -- Violet (replacing green)
+  cyan = "#00CCFF",         -- True bright cyan
   red = "#FF334A",          -- Punchy red
   yellow = "#FFB300",       -- Bright gold
   magenta = "#B040CC",      -- Vivid purple-magenta
-  pink = "#E6408A",         -- Hot pink
-  orange = "#C8A8E6",       -- Lavender (replacing orange)
+  pink = "#FF66B3",         -- Hot pink (replacing orange)
+  orange = "#FF66B3",       -- Pink (same as pink for consistency)
   purple = "#7A33CC",       -- Rich purple
 }
 
