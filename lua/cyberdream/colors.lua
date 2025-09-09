@@ -22,9 +22,9 @@ local M = {}
 
 
 M.default = {
-  bg = "#E2D5F0",           -- Light purple background (matches kitty theme)
-  bg_alt = "#d4c7db",       -- Slightly darker variant of background
-  bg_highlight = "#c5b4cf", -- Even darker for highlights
+  bg = "#D9D0E3",           -- Updated background (new kitty theme)
+  bg_alt = "#ccc0d6",       -- Slightly darker variant of background
+  bg_highlight = "#bba8c9", -- Even darker for highlights
   fg = "#060606",           -- Dark foreground for readability (matches kitty)
   grey = "#6B5A7A",         -- Muted purple-grey for comments
   blue = "#4A5BC7",         -- Deep blue for keywords
