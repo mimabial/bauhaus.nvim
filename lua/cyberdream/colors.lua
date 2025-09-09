@@ -26,16 +26,16 @@ M.default = {
   bg_alt = "#ccc0d6",       -- Slightly darker variant of background
   bg_highlight = "#bba8c9", -- Even darker for highlights
   fg = "#060606",           -- Dark foreground for readability (matches kitty)
-  grey = "#6B5A7A",         -- Muted purple-grey for comments
-  blue = "#4A5BC7",         -- Deep blue for keywords
-  green = "#2B7A4D",        -- Natural forest green for strings
-  cyan = "#2E7A7A",         -- Dark teal for constants
-  red = "#C7334A",          -- Bold red for errors
-  yellow = "#CC9900",       -- Rich gold (complementary to lavender)
-  magenta = "#8B4A9C",      -- Deep purple for special syntax
-  pink = "#B8528A",         -- Dusty rose for highlights
-  orange = "#CC7733",       -- Warm orange for numbers
-  purple = "#6B4A8B",       -- Subdued purple for types
+  grey = "#8B7A9C",         -- Dreamy lavender-grey
+  blue = "#6B85E6",         -- Soft dreamy blue
+  green = "#66B599",        -- Dreamy mint-green
+  cyan = "#7AB8CC",         -- Soft sky cyan
+  red = "#E6668A",          -- Dreamy rose-red
+  yellow = "#E6CC7A",       -- Soft golden yellow
+  magenta = "#B87ACC",      -- Dreamy purple-magenta
+  pink = "#E699B8",         -- Soft dreamy pink
+  orange = "#E6A366",       -- Soft peachy orange
+  purple = "#9966CC",       -- Dreamy lavender purple
 }
 
 
