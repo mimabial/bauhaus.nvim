@@ -22,20 +22,20 @@ local M = {}
 
 
 M.default = {
-  bg = "#EADDDC",           -- Mix of D9D0E3 and retro white
-  bg_alt = "#ddd0cf",       -- Slightly darker variant
-  bg_highlight = "#d0c3c2", -- Even darker for highlights
-  fg = "#060606",           -- Dark foreground for readability
-  grey = "#36454F",         -- Charcoal
-  blue = "#4169E1",         -- Cornflower blue
-  green = "#228B22",        -- Emerald
-  cyan = "#008B8B",         -- Turquoise
-  red = "#DC143C",          -- Crimson
-  yellow = "#B8860B",       -- Goldenrod
-  magenta = "#9932CC",      -- Orchid
-  pink = "#C85A5A",         -- Rose Quartz
-  orange = "#CC6600",       -- Tangerine
-  purple = "#7851A9",       -- Royal purple
+  bg = "#F7F7F7",           -- Retro white background
+  bg_alt = "#EEEEEE",       -- Slightly darker variant
+  bg_highlight = "#E5E5E5", -- Even darker for highlights
+  fg = "#000000",           -- Pure black foreground
+  grey = "#666666",         -- Classic Mac grey
+  blue = "#0066CC",         -- Classic Mac blue
+  green = "#00AA00",        -- Classic Mac green
+  cyan = "#00AAAA",         -- Classic Mac cyan
+  red = "#DD0000",          -- Classic Mac red
+  yellow = "#DDDD00",       -- Classic Mac yellow
+  magenta = "#CC00CC",      -- Classic Mac magenta
+  pink = "#FF6699",         -- Pink variant
+  orange = "#FF6600",       -- Classic Mac orange
+  purple = "#6600CC",       -- Classic Mac purple
 }
 
 
