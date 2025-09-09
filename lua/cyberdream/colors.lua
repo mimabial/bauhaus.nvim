@@ -26,16 +26,16 @@ M.default = {
   bg_alt = "#d4c7db",       -- Slightly darker variant of background
   bg_highlight = "#c5b4cf", -- Even darker for highlights
   fg = "#060606",           -- Dark foreground for readability (matches kitty)
-  grey = "#7A6B8C",         -- Muted purple-grey (unified tone)
-  blue = "#6366B3",         -- Muted lavender-blue (less saturated)
-  green = "#8C6B5C",        -- Warm brown-orange (ashen approach: green → warm tone)
-  cyan = "#6B8C8C",         -- Muted teal-grey (ashen's signature teal)
-  red = "#B36366",          -- Muted warm red (ashen style)
-  yellow = "#B3A066",       -- Warm muted gold (consistent warmth)
-  magenta = "#9966B3",      -- Muted purple-magenta (core lavender)
-  pink = "#B36699",         -- Muted warm pink
-  orange = "#B3806B",       -- Warm muted orange (ashen signature)
-  purple = "#8066B3",       -- Deep muted lavender (core color)
+  grey = "#7A5C9E",         -- Vivid lavender-grey
+  blue = "#6B4DFF",         -- Bright lavender-blue (main accent)
+  green = "#8A5FCC",        -- "Green" as lavender-purple (ashen approach)
+  cyan = "#9966E6",         -- "Cyan" as bright lavender
+  red = "#E6338A",          -- Vivid magenta-red (contrast color)
+  yellow = "#CC7AFF",       -- "Yellow" as light purple (ashen approach)
+  magenta = "#B84DFF",      -- Pure vivid magenta
+  pink = "#E666CC",         -- Bright lavender-pink
+  orange = "#B366E6",       -- "Orange" as medium lavender (ashen approach)
+  purple = "#8533FF",       -- Deep vivid purple (core color)
 }
 
 
