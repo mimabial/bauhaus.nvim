@@ -22,9 +22,9 @@ local M = {}
 
 
 M.default = {
-  bg = "#D9D0E3",           -- Updated lighter background
-  bg_alt = "#ccc1d6",       -- Slightly darker variant
-  bg_highlight = "#bfb2c9", -- Even darker for highlights
+  bg = "#FAF0E6",           -- Retro white (linen)
+  bg_alt = "#F0E6D2",       -- Slightly darker variant
+  bg_highlight = "#E6DCC8", -- Even darker for highlights
   fg = "#060606",           -- Dark foreground for readability
   grey = "#36454F",         -- Charcoal
   blue = "#4169E1",         -- Cornflower blue
