@@ -22,20 +22,20 @@ local M = {}
 
 
 M.default = {
-  bg = "#D9D0E3",           -- New light purple background
-  bg_alt = "#cfc2d4",       -- Slightly darker variant
-  bg_highlight = "#c1b0c9", -- Even darker for highlights
+  bg = "#D9D0E3",           -- Updated lighter background
+  bg_alt = "#ccc1d6",       -- Slightly darker variant
+  bg_highlight = "#bfb2c9", -- Even darker for highlights
   fg = "#060606",           -- Dark foreground for readability
-  grey = "#36454F",         -- Charcoal for comments
-  blue = "#1E3A8A",         -- Navy blue for keywords
-  green = "#2E7D32",        -- Forest green for strings
-  cyan = "#008080",         -- Teal for constants
-  red = "#800020",          -- Burgundy for errors
-  yellow = "#CC9900",       -- Mustard yellow for warnings
-  magenta = "#8E4585",      -- Plum for special syntax
-  pink = "#B8857A",         -- Dusty rose for highlights
-  orange = "#CC5500",       -- Burnt orange for numbers
-  purple = "#6A5ACD",       -- Royal purple for types
+  grey = "#36454F",         -- Charcoal
+  blue = "#4169E1",         -- Cornflower blue
+  green = "#228B22",        -- Emerald
+  cyan = "#008B8B",         -- Turquoise
+  red = "#DC143C",          -- Crimson
+  yellow = "#B8860B",       -- Goldenrod
+  magenta = "#9932CC",      -- Orchid
+  pink = "#C85A5A",         -- Rose Quartz
+  orange = "#CC6600",       -- Tangerine
+  purple = "#7851A9",       -- Royal purple
 }
 
 
