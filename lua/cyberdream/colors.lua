@@ -22,20 +22,20 @@ local M = {}
 
 
 M.default = {
-  bg = "#D9D0E3",           -- Updated background (new kitty theme)
-  bg_alt = "#ccc0d6",       -- Slightly darker variant of background
-  bg_highlight = "#bba8c9", -- Even darker for highlights
-  fg = "#060606",           -- Dark foreground for readability (matches kitty)
-  grey = "#5A4566",         -- Darker, more punchy purple-grey
-  blue = "#3D4AFF",         -- Bright electric blue
-  green = "#8A4FFF",        -- Violet (replacing green)
-  cyan = "#00CCFF",         -- True bright cyan
-  red = "#FF334A",          -- Punchy red
-  yellow = "#FFB300",       -- Bright gold
-  magenta = "#B040CC",      -- Vivid purple-magenta
-  pink = "#FF66B3",         -- Hot pink (replacing orange)
-  orange = "#FF66B3",       -- Pink (same as pink for consistency)
-  purple = "#7A33CC",       -- Rich purple
+  bg = "#D9D0E3",           -- New light purple background
+  bg_alt = "#cfc2d4",       -- Slightly darker variant
+  bg_highlight = "#c1b0c9", -- Even darker for highlights
+  fg = "#060606",           -- Dark foreground for readability
+  grey = "#36454F",         -- Charcoal for comments
+  blue = "#1E3A8A",         -- Navy blue for keywords
+  green = "#2E7D32",        -- Forest green for strings
+  cyan = "#008080",         -- Teal for constants
+  red = "#800020",          -- Burgundy for errors
+  yellow = "#CC9900",       -- Mustard yellow for warnings
+  magenta = "#8E4585",      -- Plum for special syntax
+  pink = "#B8857A",         -- Dusty rose for highlights
+  orange = "#CC5500",       -- Burnt orange for numbers
+  purple = "#6A5ACD",       -- Royal purple for types
 }
 
 
