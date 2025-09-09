@@ -26,16 +26,16 @@ M.default = {
   bg_alt = "#ccc0d6",       -- Slightly darker variant of background
   bg_highlight = "#bba8c9", -- Even darker for highlights
   fg = "#060606",           -- Dark foreground for readability (matches kitty)
-  grey = "#4A4066",         -- Dark cyberpunk purple-grey
-  blue = "#00CCFF",         -- Electric neon cyan-blue
-  green = "#00FF41",        -- Matrix green
-  cyan = "#00FFCC",         -- Neon cyan
-  red = "#FF0066",          -- Hot neon pink-red
-  yellow = "#FFFF00",       -- Electric yellow
-  magenta = "#FF00CC",      -- Neon magenta
-  pink = "#FF0099",         -- Hot pink
-  orange = "#FF6600",       -- Electric orange
-  purple = "#6600FF",       -- Deep neon purple
+  grey = "#5A4566",         -- Darker, more punchy purple-grey
+  blue = "#3D4AFF",         -- Bright electric blue
+  green = "#00B050",        -- Vibrant emerald green
+  cyan = "#00A6A6",         -- Bright teal
+  red = "#FF334A",          -- Punchy red
+  yellow = "#FFB300",       -- Bright gold
+  magenta = "#B040CC",      -- Vivid purple-magenta
+  pink = "#E6408A",         -- Hot pink
+  orange = "#FF7A33",       -- Vibrant orange
+  purple = "#7A33CC",       -- Rich purple
 }
 
 
