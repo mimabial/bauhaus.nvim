@@ -58,20 +58,20 @@ M.bauhaus = {
 }
 
 M.bluesky = {
-  bg = "#122D41", -- Dark blue background
-  bg_alt = "#3B4252",
-  bg_highlight = "#434C5E",
-  fg = "#EEFFFF",
-  grey = "#4C566A",
-  blue = "#5E81AC",
-  green = "#C3E88D",
-  cyan = "#8FBCBB",
-  red = "#F07178",
-  yellow = "#FFCB6B",
-  magenta = "#B48EAD",
-  pink = "#B48EAD",
-  orange = "#F78C6C",
-  purple = "#B48EAD",
+  bg = "#122D41",           -- Dark blue background
+  bg_alt = "#3B4252",       -- Nord Polar Night 1
+  bg_highlight = "#434C5E", -- Nord Polar Night 2
+  fg = "#ECEFF4",           -- Nord Snow Storm 2 (brighter white)
+  grey = "#616E88",         -- Nord Polar Night 3 with increased saturation
+  blue = "#81A1C1",         -- Nord Frost 1 (brighter blue)
+  green = "#A3BE8C",        -- Nord Aurora (green) - kept same
+  cyan = "#88C0D0",         -- Nord Frost 2 (brighter cyan)
+  red = "#BF616A",          -- Nord Aurora (red) - kept same
+  yellow = "#EBCB8B",       -- Nord Aurora (yellow) - kept same
+  magenta = "#B48EAD",      -- Nord Aurora (purple/magenta) - kept same
+  pink = "#B48EAD",         -- Nord Aurora (purple - using same as magenta)
+  orange = "#D08770",       -- Nord Aurora (orange) - kept same
+  purple = "#B48EAD",       -- Nord Aurora (purple) - kept same
 }
 
 return M
