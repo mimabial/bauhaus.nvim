@@ -59,19 +59,19 @@ M.bauhaus = {
 
 M.bluesky = {
   bg = "#122D41",           -- Dark blue background
-  bg_alt = "#3B4252",       -- Nord Polar Night 1
-  bg_highlight = "#434C5E", -- Nord Polar Night 2
-  fg = "#ECEFF4",           -- Nord Snow Storm 2 (brighter white)
-  grey = "#616E88",         -- Nord Polar Night 3 with increased saturation
-  blue = "#81A1C1",         -- Nord Frost 1 (brighter blue)
-  green = "#A3BE8C",        -- Nord Aurora (green) - kept same
-  cyan = "#88C0D0",         -- Nord Frost 2 (brighter cyan)
-  red = "#BF616A",          -- Nord Aurora (red) - kept same
-  yellow = "#EBCB8B",       -- Nord Aurora (yellow) - kept same
-  magenta = "#B48EAD",      -- Nord Aurora (purple/magenta) - kept same
-  pink = "#B48EAD",         -- Nord Aurora (purple - using same as magenta)
-  orange = "#D08770",       -- Nord Aurora (orange) - kept same
-  purple = "#B48EAD",       -- Nord Aurora (purple) - kept same
+  bg_alt = "#1A3A52",       -- Slightly lighter variant for contrast
+  bg_highlight = "#234863", -- Even lighter for highlights
+  fg = "#E5E9F0",           -- Brighter Nord Snow Storm for better contrast
+  grey = "#6B7A8A",         -- Lighter grey for better visibility
+  blue = "#88C0D0",         -- Brighter Nord Frost for contrast
+  green = "#A3BE8C",        -- Nord Aurora green (good contrast)
+  cyan = "#8FBCBB",         -- Nord Frost cyan
+  red = "#D08770",          -- Brighter red-orange for visibility
+  yellow = "#EBCB8B",       -- Nord Aurora yellow
+  magenta = "#D19BC4",      -- Lighter magenta for better contrast
+  pink = "#F4B8E4",         -- Bright pink for visibility
+  orange = "#D08770",       -- Nord Aurora orange
+  purple = "#C9A7DD",       -- Lighter purple for better contrast
 }
 
 return M
