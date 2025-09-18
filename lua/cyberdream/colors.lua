@@ -27,16 +27,16 @@ M.default = {
   bg_alt = "#ccc1d6",       -- Slightly darker variant
   bg_highlight = "#bfb2c9", -- Even darker for highlights
   fg = "#060606",           -- Dark foreground for readability
-  grey = "#36454F",         -- Charcoal
-  blue = "#4169E1",         -- Cornflower blue
-  green = "#228B22",        -- Emerald
-  cyan = "#008B8B",         -- Turquoise
-  red = "#DC143C",          -- Crimson
-  yellow = "#B8860B",       -- Goldenrod
-  magenta = "#9932CC",      -- Orchid
-  pink = "#C85A5A",         -- Rose Quartz
-  orange = "#CC6600",       -- Tangerine
-  purple = "#7851A9",       -- Royal purple
+  grey = "#6E6C7E",         -- Catppuccin-inspired muted grey
+  blue = "#8CAAEE",         -- Catppuccin blue with rose pine softness
+  green = "#A6D189",        -- Catppuccin green with earthy undertones
+  cyan = "#85C1DC",         -- Soft cyan blend
+  red = "#E78284",          -- Catppuccin red with rose pine warmth
+  yellow = "#E5C890",       -- Soft golden yellow
+  magenta = "#CA9EE6",      -- Catppuccin mauve
+  pink = "#F4B8E4",         -- Soft catppuccin pink
+  orange = "#EF9F76",       -- Catppuccin peach
+  purple = "#BABBF1",       -- Catppuccin lavender with rose pine earthiness
 }
 
 
@@ -62,16 +62,16 @@ M.bluesky = {
   bg_alt = "#1e2124",       -- Slightly lighter for contrast
   bg_highlight = "#3c4048", -- Highlight background
   fg = "#ffffff",           -- White foreground (matches kitty theme)
-  grey = "#7b8496",         -- Muted gray
-  blue = "#5ea1ff",         -- Bright blue
-  green = "#5eff6c",        -- Bright green
-  cyan = "#5ef1ff",         -- Bright cyan
-  red = "#ff6e5e",          -- Bright red
-  yellow = "#f1ff5e",       -- Bright yellow
-  magenta = "#ff5ef1",      -- Bright magenta
-  pink = "#ff5ea0",         -- Pink accent
-  orange = "#ffbd5e",       -- Orange accent
-  purple = "#bd5eff",       -- Purple accent
+  grey = "#4C566A",         -- Nord-inspired muted grey
+  blue = "#7FB3D3",         -- Blend of nord's muted blue and tokyonight's vibrancy
+  green = "#A3BE8C",        -- Nord green with slight tokyonight warmth
+  cyan = "#88C0D0",         -- Nord cyan with enhanced brightness
+  red = "#E06C75",          -- Tokyonight red with nord's subtlety
+  yellow = "#D1B788",       -- Muted yellow blend
+  magenta = "#B48EAD",      -- Nord magenta with tokyonight richness
+  pink = "#D19BC4",         -- Soft pink blend
+  orange = "#D08770",       -- Nord orange
+  purple = "#9D7CD8",       -- Tokyonight purple with nord's mutedness
 }
 
 return M
