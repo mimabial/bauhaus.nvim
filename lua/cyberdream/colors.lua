@@ -68,8 +68,8 @@ M.bluesky = {
   cyan = "#8FBCBB",         -- Nord Frost cyan
   red = "#D08770",          -- Brighter red-orange for visibility
   yellow = "#EBCB8B",       -- Nord Aurora yellow
-  magenta = "#D19BC4",      -- Lighter magenta for better contrast
-  pink = "#F4B8E4",         -- Bright pink for visibility
+  magenta = "#C9A7DD",      -- Lighter magenta for better contrast
+  pink = "#C9A7DD",         -- Bright pink for visibility
   orange = "#D08770",       -- Nord Aurora orange
   purple = "#C9A7DD",       -- Lighter purple for better contrast
 }
