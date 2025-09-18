@@ -39,7 +39,7 @@ M.default = {
 }
 
 
-M.light = {
+M.bauhaus = {
   bg = "#FAF0E6",           -- Linen background
   bg_alt = "#F0E6DD",       -- Slightly darker variant
   bg_highlight = "#E6DCD4", -- Even darker for highlights
@@ -54,6 +54,23 @@ M.light = {
   pink = "#FF3366",         -- Bright pink
   orange = "#FF6600",       -- Bold orange
   purple = "#6600AA",       -- Simple purple
+}
+
+M.bluesky = {
+  bg = "#122D41",           -- Dark blue background
+  bg_alt = "#1e2124",       -- Slightly lighter for contrast
+  bg_highlight = "#3c4048", -- Highlight background
+  fg = "#ffffff",           -- White foreground (matches kitty theme)
+  grey = "#7b8496",         -- Muted gray
+  blue = "#5ea1ff",         -- Bright blue
+  green = "#5eff6c",        -- Bright green
+  cyan = "#5ef1ff",         -- Bright cyan
+  red = "#ff6e5e",          -- Bright red
+  yellow = "#f1ff5e",       -- Bright yellow
+  magenta = "#ff5ef1",      -- Bright magenta
+  pink = "#ff5ea0",         -- Pink accent
+  orange = "#ffbd5e",       -- Orange accent
+  purple = "#bd5eff",       -- Purple accent
 }
 
 return M
