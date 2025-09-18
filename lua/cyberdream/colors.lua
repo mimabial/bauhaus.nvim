@@ -61,17 +61,17 @@ M.bluesky = {
   bg = "#122D41",           -- Dark blue background
   bg_alt = "#3B4252",       -- Nord Polar Night 1
   bg_highlight = "#434C5E", -- Nord Polar Night 2
-  fg = "#D8DEE9",           -- Nord Snow Storm 0
+  fg = "#eceff4",           -- Nord Snow Storm 0
   grey = "#4C566A",         -- Nord Polar Night 3
   blue = "#5E81AC",         -- Nord Frost 3 (deepest blue)
-  green = "#A3BE8C",        -- Nord Aurora (green)
+  green = "#C3E88D",        -- Nord Aurora (green)
   cyan = "#8FBCBB",         -- Nord Frost 0 (cyan)
   red = "#BF616A",          -- Nord Aurora (red)
   yellow = "#EBCB8B",       -- Nord Aurora (yellow)
   magenta = "#B48EAD",      -- Nord Aurora (purple/magenta)
   pink = "#FF9CAC",         -- Material pink
-  orange = "#D08770",       -- Nord Aurora (orange)
-  purple = "#B48EAD",       -- Nord Aurora (purple)
+  orange = "#F78C6C",       -- Nord Aurora (orange)
+  purple = "#C792EA",       -- Nord Aurora (purple)
 }
 
 return M
