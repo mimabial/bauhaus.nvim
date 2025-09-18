@@ -62,16 +62,16 @@ M.bluesky = {
   bg_alt = "#3B4252",
   bg_highlight = "#434C5E",
   fg = "#EEFFFF",
-  grey = "#717CB4",
-  blue = "#82AAFF",
+  grey = "#4C566A",
+  blue = "#5E81AC",
   green = "#C3E88D",
-  cyan = "#89DDFF",
+  cyan = "#8FBCBB",
   red = "#F07178",
   yellow = "#FFCB6B",
   magenta = "#B48EAD",
-  pink = "#C792EA",
+  pink = "#B48EAD",
   orange = "#F78C6C",
-  purple = "#C792EA",
+  purple = "#B48EAD",
 }
 
 return M
