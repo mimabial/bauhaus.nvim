@@ -17,7 +17,8 @@
 
 ---@class cyberdream.Colors
 ---@field default cyberdream.Palette
----@field light cyberdream.Palette
+---@field bauhaus cyberdream.Palette
+---@field bluesky cyberdream.Palette
 local M = {}
 
 
