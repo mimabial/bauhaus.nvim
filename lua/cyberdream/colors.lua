@@ -59,19 +59,19 @@ M.bauhaus = {
 
 M.bluesky = {
   bg = "#122D41",           -- Dark blue background
-  bg_alt = "#1e2124",       -- Slightly lighter for contrast
-  bg_highlight = "#3c4048", -- Highlight background
-  fg = "#ffffff",           -- White foreground (matches kitty theme)
-  grey = "#4C566A",         -- Nord grey
-  blue = "#5E81AC",         -- Nord blue
-  green = "#A3BE8C",        -- Nord green
-  cyan = "#88C0D0",         -- Nord cyan
-  red = "#BF616A",          -- Nord red
-  yellow = "#EBCB8B",       -- Nord yellow
-  magenta = "#B48EAD",      -- Nord magenta
-  pink = "#B48EAD",         -- Nord magenta (no distinct pink in Nord)
-  orange = "#D08770",       -- Nord orange
-  purple = "#B48EAD",       -- Nord magenta/purple
+  bg_alt = "#3B4252",       -- Nordic lighter background
+  bg_highlight = "#434C5E", -- Nordic highlight background
+  fg = "#ECEFF4",           -- Nordic light foreground
+  grey = "#4C566A",         -- Nordic muted grey
+  blue = "#81A1C1",         -- Nordic blue
+  green = "#A3BE8C",        -- Nordic green
+  cyan = "#88C0D0",         -- Nordic cyan
+  red = "#BF616A",          -- Nordic red
+  yellow = "#EBCB8B",       -- Nordic yellow
+  magenta = "#B48EAD",      -- Nordic magenta
+  pink = "#D19BC4",         -- Nordic-inspired pink
+  orange = "#D08770",       -- Nordic orange
+  purple = "#B48EAD",       -- Nordic purple
 }
 
 return M
