@@ -62,16 +62,16 @@ M.bluesky = {
   bg_alt = "#1e2124",       -- Slightly lighter for contrast
   bg_highlight = "#3c4048", -- Highlight background
   fg = "#ffffff",           -- White foreground (matches kitty theme)
-  grey = "#4C566A",         -- Nord-inspired muted grey
-  blue = "#7FB3D3",         -- Blend of nord's muted blue and tokyonight's vibrancy
-  green = "#A3BE8C",        -- Nord green with slight tokyonight warmth
-  cyan = "#88C0D0",         -- Nord cyan with enhanced brightness
-  red = "#E06C75",          -- Tokyonight red with nord's subtlety
-  yellow = "#D1B788",       -- Muted yellow blend
-  magenta = "#B48EAD",      -- Nord magenta with tokyonight richness
-  pink = "#D19BC4",         -- Soft pink blend
+  grey = "#4C566A",         -- Nord grey
+  blue = "#5E81AC",         -- Nord blue
+  green = "#A3BE8C",        -- Nord green
+  cyan = "#88C0D0",         -- Nord cyan
+  red = "#BF616A",          -- Nord red
+  yellow = "#EBCB8B",       -- Nord yellow
+  magenta = "#B48EAD",      -- Nord magenta
+  pink = "#B48EAD",         -- Nord magenta (no distinct pink in Nord)
   orange = "#D08770",       -- Nord orange
-  purple = "#9D7CD8",       -- Tokyonight purple with nord's mutedness
+  purple = "#B48EAD",       -- Nord magenta/purple
 }
 
 return M
