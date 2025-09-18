@@ -1,1 +1,1 @@
-require("cyberdream").load("bluesky")
+require("cyberdream").load("bauhaus")
