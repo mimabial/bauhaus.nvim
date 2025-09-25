@@ -1,13 +1,13 @@
-local colors = require("cyberdream.colors")
-local util = require("cyberdream.util")
+local colors = require("bauhaus.colors")
+local util = require("bauhaus.util")
 
 local M = {}
 
---- Generate cyberdream theme for tmux.
+--- Generate bauhaus theme for tmux.
 --- @param variant string: Variation of the colorscheme to use.
 function M.generate(variant)
-    local template = [==[
-# --> Catppuccin (Cyberdream)
+  local template = [==[
+# --> Catppuccin (bauhaus)
 set -ogq @thm_bg "${bg}"
 set -ogq @thm_fg "${fg}"
 
@@ -41,7 +41,7 @@ set -ogq @thm_mantle "${bg_alt}"
 set -ogq @thm_crust "${bg_alt}"
 ]==]
 
-    return util.parse_extra_template(template, colors[variant])
+  return util.parse_extra_template(template, colors[variant])
 end
 
 return M

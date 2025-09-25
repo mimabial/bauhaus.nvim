@@ -1,20 +1,21 @@
 local M = {}
 
 --- Get extension configuration
---- @param opts cyberdream.Config
---- @param t cyberdream.Palette
+--- @param opts bauhaus.Config
+--- @param t bauhaus.Palette
 function M.get(opts, t)
-    opts = opts or {}
-    local highlights = {
-        HeirlineInactive = { bg = t.grey },
-        HeirlineNormal = { bg = t.blue },
-        HeirlineVisual = { bg = t.magenta },
-        HeirlineReplace = { bg = t.red },
-        HeirlineCommand = { bg = t.yellow },
-        HeirlineInsert = { bg = t.green },
-        HeirlineTerminal = { bg = t.cyan },
-    }
+  opts = opts or {}
+  local highlights = {
+    HeirlineInactive = { bg = t.grey },
+    HeirlineNormal = { bg = t.blue },
+    HeirlineVisual = { bg = t.magenta },
+    HeirlineReplace = { bg = t.red },
+    HeirlineCommand = { bg = t.yellow },
+    HeirlineInsert = { bg = t.green },
+    HeirlineTerminal = { bg = t.cyan },
+  }
 
-    return highlights
+  return highlights
 end
+
 return M

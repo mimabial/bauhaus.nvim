@@ -1,14 +1,14 @@
-local colors = require("cyberdream.colors")
-local util = require("cyberdream.util")
+local colors = require("bauhaus.colors")
+local util = require("bauhaus.util")
 
 local M = {}
 
 --- Generate the theme for kitty.
 --- @param variant string: Variation of the colorscheme to use.
 function M.generate(variant)
-    local t = colors[variant]
-    local template = [==[
-# cyberdream theme for kitty
+  local t = colors[variant]
+  local template = [==[
+# bauhaus theme for kitty
 background            ${bg}
 foreground            ${fg}
 cursor                ${fg}
@@ -37,7 +37,7 @@ inactive_tab_foreground ${fg}
 inactive_tab_background ${bg}
 ]==]
 
-    return util.parse_extra_template(template, t)
+  return util.parse_extra_template(template, t)
 end
 
 return M
